@@ -1,0 +1,22 @@
+{
+  "name": "show-my-name-mms",
+  "version": "1.0.0",
+  "description": "swd student tway ko san pya tar par",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsstudent2021/show-my-name-mms.git"
+  },
+  "keywords": [
+    "show-my-name-mms"
+  ],
+  "author": "Hein Htet Zan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmsstudent2021/show-my-name-mms/issues"
+  },
+  "homepage": "https://github.com/mmsstudent2021/show-my-name-mms#readme"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "show-my-name-mms",
+  "version": "1.0.0",
+  "description": "testing...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MYATSD/show-my-name-mms.git"
+  },
+  "keywords": [
+    "show-my-name-mms"
+  ],
+  "author": "Hsu Myat Sandi Aung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MYATSD/show-my-name-mms/issues"
+  },
+  "homepage": "https://github.com/MYATSD/show-my-name-mms#readme",
+  "dependencies": {
+    "show-my-name-mms": "^1.0.0"
+  }
+}
